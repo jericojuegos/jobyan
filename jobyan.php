@@ -1,9 +1,11 @@
 <?php
 /**
  * Plugin Name: Jobyan - Job Board Plugin
+ * Plugin URI: https://jericojuegos.com/wordpress/plugin/jobyan
  * Description: A comprehensive job board plugin for WordPress with job postings, applications, user profiles, and search features.
  * Version: 1.0.0
- * Author: Jobyan Team
+ * Author: Jerico Juegos
+ * Author URI: https://jericojuegos.com
  * Text Domain: jobyan
  */
 
